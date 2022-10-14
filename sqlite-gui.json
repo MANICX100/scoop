@@ -1,6 +1,6 @@
 {
   "version": "1.7.7",
-  "url": "https://bitbucket.org/dk_ideagen/apps/raw/master/superlauncher.zip",
+  "url": "https://github.com/MANICX100/scoop/raw/main/sqlite-gui.zip",
   "extract_dir": "sqlite-gui",
   "hash": "92d8031d88456e109915f90d4d08b519179cc8ae0b50e384dbb534919c5d2974",
   "shortcuts": [
