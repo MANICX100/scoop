@@ -30,5 +30,7 @@ git add .
 git commit -m "Update Robotask to version $($json.version)"
 git push
 
+Remove-Item -LiteralPath "$env:USERPROFILE\Desktop\RoboTask" -Force -Recurse -Confirm:$false
+
 # Run scoop update and scoop update*
 scoop update; scoop update*
