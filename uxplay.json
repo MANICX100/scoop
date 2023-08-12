@@ -5,5 +5,11 @@
   "license": "GPL-3.0 license",
   "url": "https://github.com/MANICX100/scoop/raw/main/uxplay.zip",
   "hash": "dfc660d38dec22322df269af3f499590d2316b5b8dd183169471522f5e117720",
-     "bin": "uxplay.exe"
+  "bin": "uxplay.exe",
+   "shortcuts": [
+      [
+        "uxplay.exe",
+        "UXPlay",
+        ""
+        ]
   }
