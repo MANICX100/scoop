@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/MANICX100/scoop/raw/main/pedeps.zip",
-      "hash": "38f6c80def915db1603abe016646299a495a4b009d4595286832f035838342fc"
+      "hash": "028797ba64a2d9929dcc76a24480462f826a37c1910d68cf1784e40569df11a3"
     },
     "extract_dir": "pedeps",
   }
