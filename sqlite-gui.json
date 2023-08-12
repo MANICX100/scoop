@@ -10,8 +10,7 @@
       [
         "sqlite-gui.exe",
         "SQLite-GUI",
-        "",
-        "icon.ico"
-      ]
+        ""
+        ]
     ]
   }
