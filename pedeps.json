@@ -1,0 +1,13 @@
+{
+  "version": "0.11.3",
+  "description": "Cross-platform C library to read data from PE/PE+ files (the format of Windows .exe and .dll files).",
+  "homepage": "https://github.com/FDH2/UxPlay",
+  "license": "GPL-2.0 license",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/MANICX100/scoop/raw/main/pedeps.zip",
+      "hash": "38f6c80def915db1603abe016646299a495a4b009d4595286832f035838342fc"
+    },
+    "extract_dir": "pedeps",
+  }
+}
