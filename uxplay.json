@@ -9,5 +9,6 @@
       "hash": "dfc660d38dec22322df269af3f499590d2316b5b8dd183169471522f5e117720"
     },
     "extract_dir": "uxplay",
+     "bin": "uxplay.exe"
   }
 }

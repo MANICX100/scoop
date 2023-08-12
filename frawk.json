@@ -9,5 +9,6 @@
       "hash": "3b238eecabf193c42a25a7a4eab90c397f30ef20731296e654be4e9047231852"
     },
     "extract_dir": "frawk"
+    "bin": "frawk.exe"
   }
 }

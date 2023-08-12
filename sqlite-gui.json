@@ -9,6 +9,7 @@
       "hash": "92d8031d88456e109915f90d4d08b519179cc8ae0b50e384dbb534919c5d2974"
     },
     "extract_dir": "sqlite-gui",
+     "bin": "sqlite-gui.exe",
     "shortcuts": [
       [
         "sqlite-gui.exe",
