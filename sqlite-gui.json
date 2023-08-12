@@ -5,8 +5,7 @@
   "license": "GPL-2.0 license",
   "url": "https://github.com/MANICX100/scoop/raw/main/sqlite-gui.zip",
   "hash": "ccf2a2923cbc8cb4c6a6a88257705f0e22975a1a5efa304e2b4ff46e378bf522",
-    "extract_dir": "sqlite-gui",
-     "bin": "sqlite-gui.exe",
+  "bin": "sqlite-gui.exe",
     "shortcuts": [
       [
         "sqlite-gui.exe",
