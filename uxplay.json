@@ -2,7 +2,7 @@
   "version": "1.65.3",
   "description": "Lightweight iOS screen mirroring client",
   "homepage": "https://github.com/FDH2/UxPlay",
-  "license": "GPL-2.0 license",
+  "license": "GPL-3.0 license",
   "architecture": {
     "64bit": {
       "url": "https://github.com/MANICX100/scoop/raw/main/uxplay.zip",
