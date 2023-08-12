@@ -10,8 +10,8 @@
     },
     "extract_dir": "pedeps",
       "bin": [
-        "listpedeps.exe",
-        "copypedeps.exe"
+        "pedeps/listpedeps.exe",
+        "pedeps/copypedeps.exe"
     ],
   }
 }
