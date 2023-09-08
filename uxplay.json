@@ -6,10 +6,11 @@
   "url": "https://github.com/MANICX100/scoop/raw/main/uxplay.zip",
   "hash": "83bbbe53c4faa350edb8b277ffe193505da15951cbbacca83071deb470675627",
   "bin": "uxplay.exe",
-   "shortcuts": [
-      [
-        "uxplay.exe",
-        "UXPlay",
-        ""
-        ]
-     }
+  "shortcuts": [
+    [
+      "uxplay.exe",
+      "UXPlay",
+      ""
+    ]
+  ]
+}
