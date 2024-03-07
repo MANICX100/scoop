@@ -1,10 +1,10 @@
 {
-  "version": "1.8.2",
+  "version": "1.9.0",
   "description": "Lightweight SQLite editor for Windows.",
   "homepage": "https://github.com/little-brother/sqlite-gui",
   "license": "GPL-2.0 license",
   "url": "https://github.com/MANICX100/scoop/raw/main/sqlite-gui.zip",
-  "hash": "6dcadb2c40b141437b2f8199564c9549e8b6170ce6f87b5612ead22602dbf5e1",
+  "hash": "16df07441728fc09499a6441fe060b54303ddbc47f4f4476813b8ea0ce66a262",
   "bin": "sqlite-gui.exe",
     "shortcuts": [
       [
